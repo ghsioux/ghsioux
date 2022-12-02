@@ -1,4 +1,4 @@
-<a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="320" height="320" alt="surf" align="right"> </a></div>
+<a href="https://octodex.github.com/"><img src="https://avatars.githubusercontent.com/u/538170" width="320" height="320" alt="surf" align="right"> </a></div>
 <div style="padding-top: 50%; margin-top: 10em;">
   
 </br></br>
