@@ -6,7 +6,7 @@
 </br>
 
 Welcome to my GitHub profile, mi casa es tu casa  👻
-- 👀 I’m interested in Cloud/DevOps technologies, automation, decentralized networks and InfoSec;
+- 👀 I’m interested in Cloud/DevSecOps technologies, automation, decentralized networks and InfoSec;
 - 🌱 During my free time, I enjoy outdoor activities, meditation, riding at night through the 🌃
 
 Time to share code and spread 💜 bon voyage!
