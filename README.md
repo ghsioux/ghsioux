@@ -2,11 +2,13 @@
 <div style="padding-top: 50%; margin-top: 10em;">
   
 </br></br>
-👋 Hi folks, I’m @ghsioux
+👋 Hi ninjas, I’m @ghsioux
 </br>
 
 Welcome to my GitHub profile, mi casa es tu casa  👻
-- 👀 I’m interested in Cloud/DevSecOps technologies, automation, decentralized networks and InfoSec;
+- 👾 I'm currently working as a Solutions Engineer at GitHub, my goal is to help developers get the most out of the platform;
+- 👀 I’m interested in Cloud & DevSecOps technologies, automation, decentralized networks and information security;
+- 🪶 I also (try to) write [blog posts](https://ghsioux.github.io/) sometimes;
 - 🌱 During my free time, I enjoy outdoor activities, meditation, riding at night through the 🌃
 
 Time to share code and spread 💜 bon voyage!
