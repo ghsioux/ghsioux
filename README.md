@@ -12,6 +12,11 @@ Welcome to my GitHub profile, mi casa es tu casa  👻
 - 🌱 During my free time, I enjoy outdoor activities, meditation, riding at night through the 🌃
 
 Time to share code and spread 💜 bon voyage!
+
+
+![GitHub Contribution graph - snake game](https://raw.githubusercontent.com/ghsioux/generate-snake-animation/output/github-contribution-grid-snake.svg)
+<img src="[./controllers_brief.svg](https://raw.githubusercontent.com/ghsioux/generate-snake-animation/output/github-contribution-grid-snake.svg)">
+
 </div>
 <!---
 ghsioux/ghsioux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
