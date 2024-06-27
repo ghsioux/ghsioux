@@ -13,9 +13,8 @@ Welcome to my GitHub profile, mi casa es tu casa  👻
 
 Time to share code and spread 💜 bon voyage!
 
-
 ![GitHub Contribution graph - snake game](https://raw.githubusercontent.com/ghsioux/generate-snake-animation/output/github-contribution-grid-snake.svg)
-<img src="[./controllers_brief.svg](https://raw.githubusercontent.com/ghsioux/generate-snake-animation/output/github-contribution-grid-snake.svg)">
+<img src="[./controllers_brief.svg](https://raw.githubusercontent.com/ghsioux/ghsioux/output/github-contribution-grid-snake.svg)">
 
 </div>
 <!---
