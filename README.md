@@ -1,22 +1,20 @@
-<a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/surftocat.png" width="320" height="320" alt="surf" align="right"> </a></div>
-<div style="padding-top: 50%; margin-top: 10em;">
-  
-</br></br>
-👋 Hi ninjas, I’m @ghsioux
-</br>
+# About Me  
 
-Welcome to my GitHub profile, mi casa es tu casa  👻
-- 👾 I'm currently working as a Solutions Engineer at GitHub, my goal is to help developers get the most out of the platform;
-- 👀 I’m interested in Cloud & DevSecOps technologies, automation, decentralized networks and information security;
-- 🪶 I also (try to) write [blog posts](https://ghsioux.github.io/) sometimes;
-- 🌱 During my free time, I enjoy outdoor activities, meditation, riding at night through the 🌃
+[![GitHub](https://img.shields.io/badge/GitHub-%40ghsioux-239a3b.svg)](https://github.com/ghsioux)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ghsioux-0c66c3.svg)](https://www.linkedin.com/in/gaetan-hurel/) 
+[![Matrix](https://img.shields.io/badge/Matrix-%40gta%3Apard0x.com-0dbd8b.svg)](https://matrix.to/#/@gta:pard0x.com)
 
-Time to share code and spread 💜 bon voyage!
+Hi, I’m [@ghsioux](https://github.com/ghsioux). 👋 I’m currently a Solutions Engineer at [GitHub](https://github.com), helping developers unlock the full potential of the platform. 
+<!--
+Hi, I’m [@ghsioux](https://github.com/ghsioux). 👋 I’m currently a Solutions Engineer at [GitHub](https://github.com), helping developers unlock the full potential of the platform. In parallel, I am also the founder of [pard0x](https://pard0x.com), a venture focused on innovative cloud solutions.
+-->
+
+Before joining GitHub, I worked in **mobile security R&D** at [Inria](https://www.inria.fr) and as a consultant at [Red Hat](https://www.redhat.com). These experiences have fueled my passion for **DevSecOps**, **automation**, **AI** and **decentralized networks**.  
+
+When I’m not working, I like practicing zazen, exploring the outdoors and gardening - maybe that's why I like the green 🟩 so much.  
+
+Let’s code, innovate, and share knowledge together. Bon voyage! 🚀  
+
 
 ![GitHub Contribution graph - snake game](https://raw.githubusercontent.com/ghsioux/ghsioux/output/github-contribution-grid-snake.svg)
 
-</div>
-<!---
-ghsioux/ghsioux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
