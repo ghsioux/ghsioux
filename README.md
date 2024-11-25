@@ -9,7 +9,7 @@ Hi, I’m [@ghsioux](https://github.com/ghsioux). 👋 I’m currently a Solutio
 Hi, I’m [@ghsioux](https://github.com/ghsioux). 👋 I’m currently a Solutions Engineer at [GitHub](https://github.com), helping developers unlock the full potential of the platform. In parallel, I am also the founder of [pard0x](https://pard0x.com), a venture focused on innovative cloud solutions.
 -->
 
-Before joining GitHub, I worked in ** cloud-based mobile security R&D** at [Inria](https://www.inria.fr) and as a consultant at [Red Hat](https://www.redhat.com). These experiences have fueled my passion for **DevSecOps**, **automation**, **AI** and **decentralized networks**.  
+Before joining GitHub, I worked in **cloud-based mobile security R&D** at [Inria](https://www.inria.fr) and as a **system & cloud consultant** at [Red Hat](https://www.redhat.com). These experiences have fueled my passion for **DevSecOps**, **automation**, **AI** and **decentralized networks**.  
 
 When I’m not working, I like practicing zazen, exploring the outdoors and gardening - maybe that's why I like the green 🟩 so much.  
 
